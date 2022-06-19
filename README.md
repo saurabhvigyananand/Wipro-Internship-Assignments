@@ -1,2 +1,1 @@
-# fuzzy-train
-its all about learning
+#Wipro Internship Assignments , here all solutions will be provided.
